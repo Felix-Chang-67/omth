@@ -1,0 +1,9 @@
+# rendered audio and intermediate files (contain the original vocal recording)
+output/
+_work/
+*.wav
+*.mp3
+*.flac
+*.zip
+__pycache__/
+*.pyc
